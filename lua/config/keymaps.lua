@@ -35,5 +35,3 @@ end
 
 map("n", "<Tab>", "<cmd>BufferLineCycleNext<cr>", { desc = "Next Buffer" })
 map("n", "<S-Tab>", "<cmd>BufferLineCyclePrev<cr>", { desc = "Prev buffer" })
-
-map("n", "<leader>o", "<Cmd>NeoTreeFocus<CR>", { desc = "Focus Tree" })
